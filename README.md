@@ -1,4 +1,22 @@
-### Hi there 👋
+<h1>Hi, I'm Sreeja! <br/><a href="https://github.com/sreejajose/sreejajose">Front End Developer</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>AngularJS Project</b>
+  - [Practicing AngularJS](https://github.com/sreejajose/sreejajose)
+- <b>Vue Project</b>
+  - [Practicing Vue](https://github.com/sreejajose/sreejajose) <b><i>(Potentially NSFW)</b></i>
+- <b>React Project</b>
+  - [Practicing React](https://github.com/sreejajose/sreejajose)
+- <b>UI Project</b>
+  - [Practicing UI UX Technologies](https://github.com/sreejajose/sreejajose)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Sreeja Jose | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://nz.linkedin.com/in/sreeja-jose-prasad-40353817
 
 <!--
 **sreejajose/sreejajose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
