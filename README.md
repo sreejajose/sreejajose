@@ -2,15 +2,14 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>AngularJS Project</b>
-  - [Practicing AngularJS](https://github.com/sreejajose/sreejajose)
 - <b>Vue Project</b>
-  - [Practicing Vue](https://github.com/sreejajose/sreejajose) <b><i>(Potentially NSFW)</b></i>
+  - [Practicing Vue](https://github.com/sreejajose/sreejajose)
 - <b>React Project</b>
   - [Practicing React](https://github.com/sreejajose/sreejajose)
 - <b>UI Project</b>
   - [Practicing UI UX Technologies](https://github.com/sreejajose/sreejajose)
-
+- <b>AngularJS Project</b>
+  - [Practicing AngularJS](https://github.com/sreejajose/sreejajose) <b><i>(Files from 2016)</b></i>
 
 <h2> 🤳 Connect with me:</h2>
 
