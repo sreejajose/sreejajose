@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Vue Project</b>
-  - [Practicing Vue](https://github.com/sreejajose/sreejajose)
+  - [Practicing Vue - ToDo List App](https://github.com/sreejajose/vuejs-todolistapp)
 - <b>React Project</b>
   - [Practicing React](https://github.com/sreejajose/sreejajose)
 - <b>UI Project</b>
